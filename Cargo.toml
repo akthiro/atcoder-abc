@@ -1,10 +1,13 @@
 [workspace]
 resolver = "2"
 members = [
+    "abc086",
     "abc100",
     "abc101",
     "abc102",
+    "abc121",
     "abc139",
+    "abc156",
     "abc160",
     "abc161",
     "template",
