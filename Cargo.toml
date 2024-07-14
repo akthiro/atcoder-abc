@@ -24,9 +24,12 @@ members = [
     "abc160",
     "abc161",
     "abc170",
+    "abc176",
     "abc200",
     "abc220",
     "abc339",
+    "abc349",
+    "abc350",
     "abc362",
     "template",
 ]
