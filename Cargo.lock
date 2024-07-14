@@ -10,7 +10,28 @@ dependencies = [
 ]
 
 [[package]]
+name = "abc049"
+version = "0.1.0"
+dependencies = [
+ "proconio",
+]
+
+[[package]]
 name = "abc058"
+version = "0.1.0"
+dependencies = [
+ "proconio",
+]
+
+[[package]]
+name = "abc081"
+version = "0.1.0"
+dependencies = [
+ "proconio",
+]
+
+[[package]]
+name = "abc083"
 version = "0.1.0"
 dependencies = [
  "proconio",

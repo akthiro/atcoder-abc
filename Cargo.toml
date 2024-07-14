@@ -2,7 +2,10 @@
 resolver = "2"
 members = [
     "abc044",
+    "abc049",
     "abc058",
+    "abc081",
+    "abc083",
     "abc086",
     "abc087",
     "abc090",
