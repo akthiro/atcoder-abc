@@ -1,6 +1,7 @@
 [workspace]
 resolver = "2"
 members = [
+    "abc044",
     "abc058",
     "abc086",
     "abc087",
@@ -27,6 +28,8 @@ members = [
     "abc176",
     "abc200",
     "abc220",
+    "abc221",
+    "abc280",
     "abc339",
     "abc349",
     "abc350",
