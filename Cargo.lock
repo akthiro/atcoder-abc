@@ -3,6 +3,13 @@
 version = 3
 
 [[package]]
+name = "abc012"
+version = "0.1.0"
+dependencies = [
+ "proconio",
+]
+
+[[package]]
 name = "abc044"
 version = "0.1.0"
 dependencies = [
@@ -231,6 +238,13 @@ name = "abc150"
 version = "0.1.0"
 dependencies = [
  "itertools",
+ "proconio",
+]
+
+[[package]]
+name = "abc154"
+version = "0.1.0"
+dependencies = [
  "proconio",
 ]
 
@@ -481,6 +495,13 @@ dependencies = [
 
 [[package]]
 name = "abc300"
+version = "0.1.0"
+dependencies = [
+ "proconio",
+]
+
+[[package]]
+name = "abc305"
 version = "0.1.0"
 dependencies = [
  "proconio",
