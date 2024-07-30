@@ -65,6 +65,7 @@ members = [
     "abc269",
     "abc274",
     "abc280",
+    "abc282",
     "abc283",
     "abc290",
     "abc295",
@@ -78,6 +79,8 @@ members = [
     "abc344",
     "abc349",
     "abc350",
+    "abc352",
+    "abc360",
     "abc362",
     "template",
 ]
