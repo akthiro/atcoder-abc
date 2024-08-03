@@ -33,6 +33,7 @@ members = [
     "abc122",
     "abc127",
     "abc132",
+    "abc134",
     "abc136",
     "abc138",
     "abc139",
@@ -63,6 +64,7 @@ members = [
     "abc217",
     "abc220",
     "abc221",
+    "abc224",
     "abc229",
     "abc234",
     "abc236",
@@ -97,5 +99,6 @@ members = [
     "abc352",
     "abc360",
     "abc362",
+    "abc365",
     "template",
 ]
