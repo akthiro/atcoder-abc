@@ -683,7 +683,29 @@ dependencies = [
 ]
 
 [[package]]
+name = "abc361"
+version = "0.1.0"
+dependencies = [
+ "proconio",
+]
+
+[[package]]
 name = "abc362"
+version = "0.1.0"
+dependencies = [
+ "proconio",
+]
+
+[[package]]
+name = "abc363"
+version = "0.1.0"
+dependencies = [
+ "proconio",
+ "superslice",
+]
+
+[[package]]
+name = "abc364"
 version = "0.1.0"
 dependencies = [
  "proconio",
@@ -716,6 +738,12 @@ name = "proconio"
 version = "0.5.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "c10091de86d0dc939b37a115d74597cbe83af470032a1729d50c98ccee043cb0"
+
+[[package]]
+name = "superslice"
+version = "1.0.0"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "ab16ced94dbd8a46c82fd81e3ed9a8727dac2977ea869d217bcc4ea1f122e81f"
 
 [[package]]
 name = "template"
